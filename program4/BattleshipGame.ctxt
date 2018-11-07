@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BattleshipGame()
+comment0.text=\r\n\ Creates\ a\ new\ BattleshipGame\ object.\r\n
+comment1.params=
+comment1.target=sofia.battleship.BattleshipStrategy\ createMyStrategy()
+comment1.text=\r\n\ Create\ a\ strategy\ object\ representing\ your\ player\ strategy.\r\n\ @return\ The\ strategy\ I\ want\ to\ use\ in\ this\ game.\r\n
+comment2.params=
+comment2.target=sofia.battleship.BattleshipStrategy\ createOpponentsStrategy()
+comment2.text=\r\n\ Create\ a\ strategy\ object\ representing\ your\ opponent's\ strategy.\r\n\ @return\ The\ strategy\ my\ opponent\ will\ use\ in\ this\ game.\r\n
+numComments=3

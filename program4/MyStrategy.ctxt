@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategy()
+comment0.text=\r\n\ Creates\ a\ new\ MyStrategy\ object.\r\n
+comment1.params=currentGameState
+comment1.target=sofia.battleship.CallShotMove\ callNextShot(sofia.battleship.GameState)
+comment1.text=\r\n\ method\ play\ to\ call\ player's\ next\ move\r\n\ @param\ currentGameState\ \ \ \ current\ state\ of\ player/opponent's\ board\r\n\ @return\ \ the\ coordinates\ (x,\ y)\ of\ shot\r\n
+comment2.params=
+comment2.target=boolean\ canPlayDeviously()
+comment2.text=\r\n\ can\ play\ deviously\ (reposition\ ships)\r\n\ @return\ \ whether\ or\ not\ DeviousPlay\ is\ allowed\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ return\ name\ of\ player/strategy\r\n\ @return\ \ the\ name\ of\ the\ player\ (PID)\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ re/initialize\ strategy\ to\ play\ new\ game\ (resets)\r\n
+comment5.params=currentGameState
+comment5.target=sofia.battleship.ShipPlacementMove\ placeShips(sofia.battleship.GameState)
+comment5.text=\r\n\ called\ to\ place\ ships\ on\ board\r\n\ @param\ currentGameState\ \ \ \ current\ state\ of\ player/opponents\ board(s)\r\n\ @return\ \ the\ placement\ of\ the\ ships\r\n
+numComments=6
